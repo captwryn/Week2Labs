@@ -1,0 +1,16 @@
+C:\Users\Dans-LT\source\repos\LabsWeek2\StudentDatabase\bin\Debug\net6.0\StudentDatabase.exe
+C:\Users\Dans-LT\source\repos\LabsWeek2\StudentDatabase\bin\Debug\net6.0\StudentDatabase.deps.json
+C:\Users\Dans-LT\source\repos\LabsWeek2\StudentDatabase\bin\Debug\net6.0\StudentDatabase.runtimeconfig.json
+C:\Users\Dans-LT\source\repos\LabsWeek2\StudentDatabase\bin\Debug\net6.0\StudentDatabase.dll
+C:\Users\Dans-LT\source\repos\LabsWeek2\StudentDatabase\bin\Debug\net6.0\ref\StudentDatabase.dll
+C:\Users\Dans-LT\source\repos\LabsWeek2\StudentDatabase\bin\Debug\net6.0\StudentDatabase.pdb
+C:\Users\Dans-LT\source\repos\LabsWeek2\StudentDatabase\obj\Debug\net6.0\StudentDatabase.GlobalUsings.g.cs
+C:\Users\Dans-LT\source\repos\LabsWeek2\StudentDatabase\obj\Debug\net6.0\StudentDatabase.csproj.AssemblyReference.cache
+C:\Users\Dans-LT\source\repos\LabsWeek2\StudentDatabase\obj\Debug\net6.0\StudentDatabase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dans-LT\source\repos\LabsWeek2\StudentDatabase\obj\Debug\net6.0\StudentDatabase.AssemblyInfoInputs.cache
+C:\Users\Dans-LT\source\repos\LabsWeek2\StudentDatabase\obj\Debug\net6.0\StudentDatabase.AssemblyInfo.cs
+C:\Users\Dans-LT\source\repos\LabsWeek2\StudentDatabase\obj\Debug\net6.0\StudentDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Dans-LT\source\repos\LabsWeek2\StudentDatabase\obj\Debug\net6.0\StudentDatabase.dll
+C:\Users\Dans-LT\source\repos\LabsWeek2\StudentDatabase\obj\Debug\net6.0\ref\StudentDatabase.dll
+C:\Users\Dans-LT\source\repos\LabsWeek2\StudentDatabase\obj\Debug\net6.0\StudentDatabase.pdb
+C:\Users\Dans-LT\source\repos\LabsWeek2\StudentDatabase\obj\Debug\net6.0\StudentDatabase.genruntimeconfig.cache
