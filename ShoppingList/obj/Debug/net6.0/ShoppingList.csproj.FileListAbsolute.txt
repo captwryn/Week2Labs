@@ -1,0 +1,16 @@
+C:\Users\Dans-LT\source\repos\LabsWeek2\ShoppingList\bin\Debug\net6.0\ShoppingList.exe
+C:\Users\Dans-LT\source\repos\LabsWeek2\ShoppingList\bin\Debug\net6.0\ShoppingList.deps.json
+C:\Users\Dans-LT\source\repos\LabsWeek2\ShoppingList\bin\Debug\net6.0\ShoppingList.runtimeconfig.json
+C:\Users\Dans-LT\source\repos\LabsWeek2\ShoppingList\bin\Debug\net6.0\ShoppingList.dll
+C:\Users\Dans-LT\source\repos\LabsWeek2\ShoppingList\bin\Debug\net6.0\ref\ShoppingList.dll
+C:\Users\Dans-LT\source\repos\LabsWeek2\ShoppingList\bin\Debug\net6.0\ShoppingList.pdb
+C:\Users\Dans-LT\source\repos\LabsWeek2\ShoppingList\obj\Debug\net6.0\ShoppingList.GlobalUsings.g.cs
+C:\Users\Dans-LT\source\repos\LabsWeek2\ShoppingList\obj\Debug\net6.0\ShoppingList.csproj.AssemblyReference.cache
+C:\Users\Dans-LT\source\repos\LabsWeek2\ShoppingList\obj\Debug\net6.0\ShoppingList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dans-LT\source\repos\LabsWeek2\ShoppingList\obj\Debug\net6.0\ShoppingList.AssemblyInfoInputs.cache
+C:\Users\Dans-LT\source\repos\LabsWeek2\ShoppingList\obj\Debug\net6.0\ShoppingList.AssemblyInfo.cs
+C:\Users\Dans-LT\source\repos\LabsWeek2\ShoppingList\obj\Debug\net6.0\ShoppingList.csproj.CoreCompileInputs.cache
+C:\Users\Dans-LT\source\repos\LabsWeek2\ShoppingList\obj\Debug\net6.0\ShoppingList.dll
+C:\Users\Dans-LT\source\repos\LabsWeek2\ShoppingList\obj\Debug\net6.0\ref\ShoppingList.dll
+C:\Users\Dans-LT\source\repos\LabsWeek2\ShoppingList\obj\Debug\net6.0\ShoppingList.pdb
+C:\Users\Dans-LT\source\repos\LabsWeek2\ShoppingList\obj\Debug\net6.0\ShoppingList.genruntimeconfig.cache

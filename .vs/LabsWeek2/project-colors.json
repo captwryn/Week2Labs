@@ -5,7 +5,17 @@
       "ProjectGuid": "5156b93f-2554-42bf-9ea2-78b678c92b9c",
       "DisplayName": "StudentDatabase",
       "ColorIndex": 0
+    },
+    "695e1ad1-236b-4559-9914-34c77424da33": {
+      "ProjectGuid": "695e1ad1-236b-4559-9914-34c77424da33",
+      "DisplayName": "ShoppingList",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }
