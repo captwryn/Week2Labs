@@ -25,20 +25,13 @@ namespace DictionaryDemo
             Console.WriteLine("  Welcome to the store\n\n  Here's a list of available items:");
             foreach (var pair in glist)
             {
-                Console.WriteLine($"    { pair.Key}");
-                // Console.WriteLine($"{ pair.Key}  ${pair.Value}");
+                Console.WriteLine($"      {pair.Key,-12} ${pair.Value}");
             }
             do
             {
                 Console.WriteLine("\n  What would you like to add something to your basket?:\n   (enter item or done to finish; any other entries are ignored)");
                 string entry = Console.ReadLine().ToLower();
-                foreach (var pair in glist)
-                {
-                    if (entry != pair.Key && entry != "done")
-                    {
-                        Console.WriteLine("Error");
-                    }
-                }
+                
                 foreach (var pair in glist)
                 {
                     if (entry == pair.Key)
@@ -58,7 +51,6 @@ namespace DictionaryDemo
             {
                 Console.WriteLine($"      {pair.Key, -12} ${pair.Value}");
                 total = total + pair.Value;
-                // Console.WriteLine($"{ pair.Key}  ${pair.Value}");
             }
             Console.WriteLine($"\n   Your total cost is:\n   ${total,20}");
             Console.WriteLine("\n---------------------------");
